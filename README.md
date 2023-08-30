@@ -1,4 +1,6 @@
-# OlympSis: Your Window to Olympic Insights.
+# OlympSis
+
+### OlympSis: Your Window to Olympic Insights.
 
 ### Explore 120 years of history, athlete triumphs, and medal dynamics with intuitive visualizations. Uncover trends, records, and stories that shape the Olympic legacy.
 
